@@ -1,5 +1,9 @@
 
 imagenet_urls_examples.txt
 01_hello_python.ipynb
-data/application_train.csv
+data/*
 Day_004_first_EDA.ipynb
+.ipynb_checkpoints/*
+Day_006_column_data_type.ipynb
+Day_007_Feature_Types.ipynb
+Day_009_outliers_detection.ipynb
